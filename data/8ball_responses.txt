@@ -24,3 +24,8 @@ $(dark_red, bold)My reply is no
 $(dark_red, bold)My sources say no
 $(dark_red, bold)Outlook not so good
 $(dark_red, bold)Very doubtful
+$(dark_red, bold)Definitely not
+$(dark_red, bold)No
+$(dark_red, bold)No, no way
+$(dark_red, bold)Absolutely not
+$(dark_red, bold)Out of the question
